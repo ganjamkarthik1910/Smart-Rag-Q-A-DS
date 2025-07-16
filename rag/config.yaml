@@ -1,0 +1,6 @@
+collection: ds_qa_chunks
+encoder: mixedbread-ai/mxbai-embed-large
+k: 4
+temperature: 0.2
+top_p: 0.95
+max_tokens: 256
