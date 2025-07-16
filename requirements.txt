@@ -1,0 +1,15 @@
+# Core
+torch>=2.2.*
+transformers>=4.43.*
+accelerate>=0.29.*
+bitsandbytes>=0.43.*
+peft>=0.11.*
+datasets>=2.19.*
+sentence-transformers>=2.7.*
+qdrant-client>=1.8.*
+fastapi>=0.111.*
+uvicorn[standard]>=0.30.*
+vllm>=0.4.*
+wandb>=0.17.*
+flash-attn>=2.5.* # provides FlashAttention‑3 kernels (sm80 compatible)
+pytest>=8.2.*
